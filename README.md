@@ -7,9 +7,13 @@ I'm on a mission to become a top software developer, mastering both front-end an
 
 # 💻 Tech Stack:
 Frontend: React, HTML, CSS, JavaScript
+
 Backend: Node.js, Express.js
+
 Database: MongoDB, SQL
+
 Tools & Platforms: Git, GitHub, Visual Studio Code,
+
 Other: REST APIs, Linux
 
 # Learning & Goals:
@@ -24,6 +28,7 @@ Learning advanced concepts in Redux and state management.
 
 # Projects:
 Zen Class Program: A comprehensive program management system using MongoDB, Express.js, React, and Node.js (MERN stack). Focused on entities like users, codekata, attendance, topics, tasks, company drives, and mentors.
+
 Cart Page with React & Redux Toolkit: A dynamic shopping cart page with functionalities like item removal, quantity adjustment, and real-time price updates.
 
 # 💡 Interests:
