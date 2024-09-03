@@ -1,4 +1,5 @@
-# <b>Hello, I'm Padmanaban!</b><br>About Me:<br><i>I'm a passionate Full Stack Developer with a deep love for technology and coding. My journey in the world of software development is driven by curiosity and the constant desire to learn and grow. I'm on a mission to become a top software developer, mastering both front-end and back-end technologies.</i>
+# <b>Hello, I'm Padmanaban!</b>
+<br>About Me:<br><i>I'm a passionate Full Stack Developer with a deep love for technology and coding. My journey in the world of software development is driven by curiosity and the constant desire to learn and grow. I'm on a mission to become a top software developer, mastering both front-end and back-end technologies.</i>
 
 
 # 💻 Tech Stack:
