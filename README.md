@@ -1,5 +1,5 @@
 # About Me:
-Hello, I'm Padmanaban!<br>About Me:<br>I'm a passionate Full Stack Developer with a deep love for technology and coding. My journey in the world of software development is driven by curiosity and the constant desire to learn and grow. I'm on a mission to become a top software developer, mastering both front-end and back-end technologies.<br><br>💻 Tech Stack:<br>Frontend: React, HTML, CSS, JavaScript<br><br>Backend: Node.js, Express.js<br><br>Database: MongoDB, SQL<br><br>Tools & Platforms: Git, GitHub, Visual Studio Code,<br><br>Other: REST APIs, Linux
+Hello, I'm Padmanaban!<br>About Me:<br>I'm a passionate Full Stack Developer with a deep love for technology and coding. My journey in the world of software development is driven by curiosity and the constant desire to learn and grow. I'm on a mission to become a top software developer, mastering both front-end and back-end technologies.<br>
 
 
 # 💻 Tech Stack:
